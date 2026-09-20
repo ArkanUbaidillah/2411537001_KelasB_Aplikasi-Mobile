@@ -1,0 +1,12 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    { "name": "P1 - form-textfield (modul)", "request": "launch", "type": "dart", "program": "lib/praktikum1/form-textfield.dart" },
+    { "name": "P1 - form-textformfield (modul)", "request": "launch", "type": "dart", "program": "lib/praktikum1/form-textformfield.dart" },
+    { "name": "P1 - Form Pendaftaran (tugas)", "request": "launch", "type": "dart", "program": "lib/praktikum1/main.dart" },
+    { "name": "P2 - main1 (modul)", "request": "launch", "type": "dart", "program": "lib/praktikum2/main1.dart" },
+    { "name": "P2 - main1_tugas", "request": "launch", "type": "dart", "program": "lib/praktikum2/main1_tugas.dart" },
+    { "name": "P2 - main2 (modul)", "request": "launch", "type": "dart", "program": "lib/praktikum2/main2.dart" },
+    { "name": "P2 - main2_tugas", "request": "launch", "type": "dart", "program": "lib/praktikum2/main2_tugas.dart" }
+  ]
+}
